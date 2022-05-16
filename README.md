@@ -1,5 +1,5 @@
 # testconverter
-To run:
-1 - rename .env.example => .env
-2 - npm ci
-3 - npm start
+To run:<br>
+1 - rename .env.example => .env<br>
+2 - npm ci<br>
+3 - npm start<br>
